@@ -5,8 +5,11 @@ print("Welcome to Dice Roller!")
 print("Type 'quit' to quit.")
 print("Type 'ydx' where x and y are integers")
 
+#While the program is running
+#running = false by typing quit
 while running:
 	
+	#Take an input
 	i = input()
 	
 	if "d" in i:
