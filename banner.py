@@ -9,5 +9,3 @@ print ("# " + banner + " #")
 
 for n in range(0, length + 4):
 	print ('#', end="")
-
-	#Hello
